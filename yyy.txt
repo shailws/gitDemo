@@ -1,1 +1,2 @@
-yyy first
+yyy first.
+yyy second.
